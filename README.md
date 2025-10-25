@@ -2,6 +2,7 @@
 
 > A complete and well-commented Python basics guide in one file.  
 > Learn Python step by step — with clear syntax, examples, and short explanations.
+> Best approach for the beginer
 
 ---
 
